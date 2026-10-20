@@ -1,0 +1,1 @@
+{"name": "debt-ratchet", "description": "Turn every `shortcut:` comment into a debt ledger and fail CI only when new debt has no upgrade trigger. The ponytail-debt skill as a 0-token CLI.", "version": "0.1.0", "author": {"name": "Dodai0419"}}

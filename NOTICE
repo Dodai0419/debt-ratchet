@@ -1,0 +1,19 @@
+debt-ratchet
+Copyright (c) 2026 Dodai0419 (MIT, see LICENSE)
+
+This product includes material from:
+
+1. ponytail - https://github.com/DietrichGebert/ponytail
+   Copyright (c) 2026 DietrichGebert
+   Licensed under the MIT License.
+   - The scan command (git grep --no-index --exclude-standard with the
+     `(#|//|/[*]) ?(shortcut|ponytail):` pattern), the `shortcut: <ceiling>,
+     <upgrade path>` convention, the ledger row format, the no-trigger tag and
+     the summary line follow skills/ponytail-debt/SKILL.md (commit 09c434a).
+
+2. AI Job Search - https://github.com/MadsLorentzen/ai-job-search
+   Copyright (c) 2026 Mads Lorentzen
+   Licensed under the MIT License.
+   - make_key, slugify, _lost_letters and _cap in debt_ratchet.py are ported from
+     tools/job_key.py (commit 0f6480d) with the same constants and output.
+     Change: docstrings shortened; the seen_jobs.json audit is not included.

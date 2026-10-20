@@ -1,0 +1,1 @@
+{"name": "debt-ratchet", "owner": {"name": "Dodai0419"}, "plugins": [{"name": "debt-ratchet", "source": "./", "description": "Turn every `shortcut:` comment into a debt ledger and fail CI only when new debt has no upgrade trigger. The ponytail-debt skill as a 0-token CLI."}]}

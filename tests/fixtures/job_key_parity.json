@@ -1,0 +1,86 @@
+[
+[
+"Acme Corp",
+"SOC Analyst (L2)",
+"",
+"acme-corp_soc-analyst-l2"
+],
+[
+"Deloitte",
+"Junior Cybersecurity Analyst (OT/IoT)",
+"",
+"deloitte_junior-cybersecurity-analyst-ot-iot"
+],
+[
+"Deloitte",
+"Cyber Intelligence Center Security Analyst at the Copenhagen office of the global firm",
+"",
+"deloitte_cyber-intelligence-center-security-analyst-at-the-copenhagen-6961b2"
+],
+[
+"\u00d8rsted",
+"Data Engineer",
+"",
+"rsted_data-engineer"
+],
+[
+"\u0421\u0431\u0435\u0440 AI",
+"ML Engineer",
+"",
+"ai-d35210_ml-engineer"
+],
+[
+"\u042f\u043d\u0434\u0435\u043a\u0441 AI",
+"ML Engineer",
+"",
+"ai-e2e58f_ml-engineer"
+],
+[
+"Securion",
+"\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 1\u0421",
+"https://hh.ru/vacancy/12345678",
+"securion_1-12345678"
+],
+[
+"Securion",
+"\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a 1\u0421",
+"",
+"securion_1-b5cbb6"
+],
+[
+"",
+"",
+"",
+"unknown-company_untitled-da39a3"
+],
+[
+"ops consulting, llc",
+"malware analyst",
+"",
+"ops-consulting-llc_malware-analyst"
+],
+[
+"src/app/handlers/payment_webhook.py",
+"regex, not a parser; nested and dynamic definitions are missed",
+"",
+"src-app-handlers-payment-webhook-py_regex-not-a-parser-nested-and-dynamic-definitions-are-missed"
+],
+[
+"hooks/band/metrics.ts",
+"names only; a helper rewritten under another name is not found",
+"",
+"hooks-band-metrics-ts_names-only-a-helper-rewritten-under-another-name-is-not-foun-20b32b"
+],
+[
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+"",
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-86f336_bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb-b59aa4"
+],
+[
+"Caf\u00e9 M\u00fcller",
+"Gr\u00f6\u00dfe \ufb01nder",
+"",
+"cafe-muller_groe-finder"
+]
+]
